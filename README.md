@@ -1,5 +1,1 @@
 
-TextUtils is a simple React app for quick text manipulation and analysis.
-It provides features like uppercase/lowercase conversion, removing extra spaces, copying text, and showing word/character counts.
-The interface is clean, fast, and includes dark/light mode support.
-Ideal for users who need quick and easy text formatting tools.
